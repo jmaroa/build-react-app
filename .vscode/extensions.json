@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig",
+    "eamodio.gitlens",
+    "christian-kohler.path-intellisense",
+    "mike-co.import-sorter",
+    "mikestead.dotenv",
+    "Orta.vscode-jest",
+    "msjsdiag.debugger-for-chrome"
+  ]
+}
